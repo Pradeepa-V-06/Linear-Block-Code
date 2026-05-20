@@ -163,12 +163,10 @@ print("\nThe correct codeword is : "
       + " ".join(map(str, correct.astype(int))))
 ```
 # Output 
-
 <img width="472" height="807" alt="image" src="https://github.com/user-attachments/assets/2754d9f2-51f0-4447-a6ec-1c9027906036" />
 <img width="246" height="182" alt="image" src="https://github.com/user-attachments/assets/a14d8650-0b89-451e-9218-e146c6438d25" />
 
 # Verification
-
 <img width="889" height="1586" alt="image" src="https://github.com/user-attachments/assets/74ba310a-dc42-4e98-b2a4-470cb864c901" />
 <img width="936" height="1387" alt="image" src="https://github.com/user-attachments/assets/e57e165a-df1a-4232-bcd0-04646b4ab413" />
 <img width="819" height="1381" alt="image" src="https://github.com/user-attachments/assets/e3026ce8-e44c-4c7d-a648-8e0c4b3df557" />
